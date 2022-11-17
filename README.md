@@ -5,11 +5,10 @@
  ___/ /__/ (__  ) /__/ /_/ / / / /
 /____/____/____/\___/\__,_/_/ /_/
 ```
----
 S3scan is a tool that scans a S3 bucket for permissions, object listing. It also checks if a bucket exists.
 
 
-## Installation
+Installation
 ---
 ```
 git clone https://github.com/Pyr0sec/S3scan
@@ -18,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 
-## Usage
+Usage
 ---
 ```shell
 (venv) C:\Users\puruj\Documents\git\s3scan>python S3scan.py -h                                              
@@ -41,12 +40,12 @@ options:
 ```
 
 
-## Examples
+Examples
 ---
 ```bash
 python S3scan.py -b flaws.cloud --profile root --enumerate
 ```
 
 
-## Screenshots
+Screenshots
 ---
