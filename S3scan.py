@@ -59,7 +59,7 @@ elif args.url and "amazonaws" not in args.url:
     bucketname = url_parse1(args.url)
     if ".com" in bucketname:
         bucketname = bucketname.replace(".com", "")
-    print("checking if %s bucket exists... \nIf you think %s is not the bucket name then you can specify bucket using -b flag. \nNote: If you are using a non AWS service (like localstack) then please specify the endpoint url using --endpoint-url flag." % (bucketname,bucketname))
+    print("checking if %s bucket exists... \nIf you think %s is not the bucket name then you can specify bucket using -b flag." % (bucketname,bucketname))
 elif args.bucket_name:
     bucketname = args.bucket_name
 else:
