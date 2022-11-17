@@ -1,11 +1,11 @@
-```bash
+```
    __________
   / ___/__  /______________ _____
   \__ \ /_ </ ___/ ___/ __ `/ __ \
  ___/ /__/ (__  ) /__/ /_/ / / / /
 /____/____/____/\___/\__,_/_/ /_/
 ```
-S3scan is a tool that scans a S3 bucket for permissions, object listing. It also checks if a bucket exists.
+S3scan is a tool that scans S3 buckets for permissions, object listing. Also checks if a bucket exists or not.
 
 
 Installation
