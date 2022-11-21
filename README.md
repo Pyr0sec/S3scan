@@ -8,6 +8,14 @@
 S3scan is a tool that scans S3 buckets for permissions, object listing. Also checks if a bucket exists or not.
 
 
+Requirements
+---
+```
+- Python 3.x
+- awscli (credentials must be configured)
+```
+
+
 Installation
 ---
 ```
