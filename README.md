@@ -1,7 +1,7 @@
 ```
-                                                          +-+-+-+-+-+-+
-                                                          |s|3|s|c|a|n|
-                                                          +-+-+-+-+-+-+
+                                              +-+-+-+-+-+-+
+                                              |s|3|s|c|a|n|
+                                              +-+-+-+-+-+-+
 ```
 S3scan is a tool that scans S3 buckets for permissions, object listing. Also checks if a bucket exists or not.
 
