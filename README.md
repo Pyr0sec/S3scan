@@ -72,7 +72,7 @@ Todo
 
 Screenshots
 ---
-![image](https://github.com/Pyr0sec/S3scan/assets/74669749/1857352c-3717-4fd5-8d99-e2302103ba9b)
+![image](https://github.com/Pyr0sec/S3scan/assets/74669749/b350ebb8-1614-456a-ad44-2c4920f9db23)
 ![image](https://github.com/Pyr0sec/S3scan/assets/74669749/071e8e1f-b55d-4d51-88f4-236afbac8928)
 ![image](https://github.com/Pyr0sec/S3scan/assets/74669749/a8885005-dc8a-4edb-9262-e4948ebea562)
 
